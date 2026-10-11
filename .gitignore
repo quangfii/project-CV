@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.docx_qa/
+.docx_week1_qa/
+external-test-data/
+SoilClass A Novel Image Dataset for Soil Classific/
+*.zip
+*.docx
+soil-classification/outputs/
+soil-classification/outputs-smoke/
